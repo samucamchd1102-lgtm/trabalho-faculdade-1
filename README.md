@@ -3,7 +3,6 @@
 =========================================================
 PROGRAMA: RESOLVEDOR DE EQUACOES DO 1o E 2o GRAU
 PADRAO : ANSI C
-AUTOR  : (Substituir pelos nomes dos alunos)
 =========================================================
 */
 
